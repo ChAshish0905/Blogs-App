@@ -1,0 +1,30 @@
+.btn {
+  display: inline-block;
+  background: hsl(205, 78%, 60%);
+  color: black;
+  padding: 0.25rem 0.75rem;
+  border-radius: 0.25rem;
+  border-color: transparent;
+  text-transform: capitalize;
+  font-size: 1rem;
+  letter-spacing: 0.1rem;
+  margin-top: 0.5rem;
+  margin-left: 0.5rem;
+  margin-right: 0.5rem;
+  margin-bottom: 1rem;
+  cursor: pointer;
+  transition: all 0.3s linear;
+}
+.btn:hover {
+  background: hsl(205, 86%, 17%);
+  color: hsl(205, 78%, 60%);
+}
+
+p {
+  text-align: center;
+  margin: 15px;
+}
+
+li {
+  margin-bottom: 25px;
+}

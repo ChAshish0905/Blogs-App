@@ -1,0 +1,11 @@
+hr {
+  display: block;
+  width: 90%;
+  margin-right: auto;
+  margin-left: auto;
+  border-style: solid;
+}
+
+.link:hover {
+  color: rgb(16, 9, 9);
+}

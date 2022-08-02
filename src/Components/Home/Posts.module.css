@@ -1,0 +1,42 @@
+.btn {
+  display: inline-block;
+  background: hsl(205, 78%, 60%);
+  color: black;
+  padding: 0.25rem 0.75rem;
+  border-radius: 0.25rem;
+  border-color: transparent;
+  text-transform: capitalize;
+  font-size: 1rem;
+  letter-spacing: 0.1rem;
+  margin-top: 2rem;
+  margin-left: 0.5rem;
+  margin-right: 0.5rem;
+  cursor: pointer;
+  transition: all 0.3s linear;
+}
+.btn:hover {
+  background: hsl(205, 86%, 17%);
+  color: hsl(205, 78%, 60%);
+}
+
+.link {
+  color: black;
+}
+
+.link:hover {
+  color: blue;
+}
+
+.post {
+  padding: 15px;
+  margin: 30px;
+  list-style-type: ">";
+}
+
+h1 {
+  text-align: center;
+}
+
+.card {
+  background-color: rgba(0, 0, 0, 0.563);
+}
